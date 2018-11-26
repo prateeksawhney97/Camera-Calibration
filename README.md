@@ -4,7 +4,7 @@
 
 Using the chessboard images to obtain image points and object points, and then using the OpenCV functions cv2.calibrateCamera() and cv2.undistort() to compute the calibration and undistortion. 
 
-https://github.com/prateeksawhney97/Finding-Corners-Using-OpenCV for drawing corners in an image of a chessboard pattern.
+https://github.com/prateeksawhney97/Finding-Corners-Using-OpenCV for drawing corners in an image of a chessboard pattern using OpenCV functions like findChessboardCorners() and drawChessboardCorners().
 
 ### Test Image
 
